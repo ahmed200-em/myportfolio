@@ -77,7 +77,7 @@ This portfolio showcases:
 
 # Porfolio screen-shot
 
-<img width="1840" height="1080" alt="Screenshot (3)" src="image/127.0.0.1_5501_portfolio.html.png" />
+<img alt="Screenshot (3)" src="image/127.0.0.1_5501_portfolio.html.png" />
 
 # 👨‍💻 Author
 
