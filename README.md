@@ -89,4 +89,4 @@ GitHub:
 
 LinkedIn:
 
-[Your LinkedIn Profile](https://linkedin.com/in/ahmed-elmakrini)
+[ahmed-elmakrini](https://linkedin.com/in/ahmed-elmakrini)
