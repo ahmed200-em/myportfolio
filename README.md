@@ -77,7 +77,7 @@ This portfolio showcases:
 
 # Porfolio screen-shot
 
-<img alt="Screenshot (3)" src="./image/Ahmed Elmakrini - Portfolio(1).png" />
+<img alt="Screenshot (3)" src="./image/Ahmed Elmakrini - Portfolio(2).png" />
 
 # 👨‍💻 Author
 
